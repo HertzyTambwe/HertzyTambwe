@@ -14,9 +14,5 @@ Hey everyone, happy to help, check out my [YouTube](https://bit.ly/3RDdUXn) and 
 
 [![Github badge](https://img.shields.io/badge/HertzyTambwe-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HertzyTambwe) [![Gmail badge](https://img.shields.io/badge/hertytambwe@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hertytambwe@gmail.com)
 
----
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Hope+you+connect!+Take+care!)](https://git.io/typing-svg)
-
-Starting a new counter from fresh (so lower than the actual count):  ![](https://komarev.com/ghpvc/?username=HertzyTambwe)
 
