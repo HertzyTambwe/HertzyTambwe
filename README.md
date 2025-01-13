@@ -10,8 +10,6 @@ Hey everyone, happy to help, check out my [YouTube](https://bit.ly/3RDdUXn) and 
 [![Hertzy GitHub stats](https://github-readme-stats.vercel.app/api?username=HertzyTambwe&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true&count_private=true)](https://github.com/HertzyTambwe) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HertzyTambwe&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/HertzyTambwe) 
 | ----------- | ------------ |
 
-### <📨> Reach out :) </📨>
-
 [![Github badge](https://img.shields.io/badge/HertzyTambwe-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HertzyTambwe) [![Gmail badge](https://img.shields.io/badge/hertytambwe@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hertytambwe@gmail.com)
 
 
